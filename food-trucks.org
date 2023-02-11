@@ -285,7 +285,7 @@ A food truck is not allowed to park in front of a fire hydrant no matter how del
 
 Food truck operators must not serve food that has been poisoned, contaminated, and spoiled. Beyond the reputational harm they'd do to themselves and the gastrointestinal harm they'd do to their patrons, they might also be held legally responsible if found negligent.
 
-*** Food trucks have socio-political consequences
+*** Food trucks have political consequences
 
 Like any business, food trucks are subject to regulations, taxes, and inspections decided by political processes of the jurisdictions where they operate.
 
@@ -309,7 +309,7 @@ Consider Mozilla's mission:
 
 Whatever you want to call it -- the "metaverse", the immersive web, or just "video games" -- people are increasingly gathering in multiplayer experiences to create, connect, play, learn and express themselves.
 
-These applications have /massive/ socio-political consequences. These applications know who you spend time with, what you talk about, where you look, for how long, and whether your pupils dilated ever so slightly. They have unprecedented access to YOU. It doesn't have to be this way. I want to live in a future where I can experience the immersive web and feel confident I'm not being recorded, tracked, manipulated, and exploited by unseen actors.
+These applications have /massive/ political consequences. These applications know who you spend time with, what you talk about, where you look, for how long, and whether your pupils dilated ever so slightly. They have unprecedented access to YOU. It doesn't have to be this way. I want to live in a future where I can experience the immersive web and feel confident I'm not being recorded, tracked, manipulated, and exploited by unseen actors.
 
 Notice that there are hardly any "food safety standards" for these applications.
 
