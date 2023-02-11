@@ -319,7 +319,7 @@ We believe that with Hubs, we have an opportunity to avoid this family of applic
 
 We still hope to create a sustainable business around Hubs.
 
-The business model of social media companies has been to harvest, analyze, exploit, and sell user data. This creates an asynchronous power dynamic between platforms and a platforms users.
+The business model of social media companies has been to harvest, analyze, exploit, and sell user data. This creates an asymmetric power dynamic between platforms and a platforms users.
 
 By creating valuable products people pay for, we sustain the mission and maintain a direct relationship with the people we serve. (With Hubs, you are /not/ the product.)
 
