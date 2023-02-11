@@ -1,0 +1,39 @@
+#+title: Food Trucks
+#+author: John Shaughnessy
+
+
+* New things are easy to misunderstand
+
+When a something new comes along, it's easy to misunderstand. It's easy to miss. It's easy to group it with other things that it looks like, or that it sounds like, or that it seems like.
+
+Hubs is a new thing, and it's easy to misunderstand.
+
+If I describe its features, you might think it's another Roblox, Rec Room, Meta, VR Chat.
+If I describe its extensibility, you might think it's another game engine like Unreal, Unity, Godot, RPG Toolkit.
+If I describe its organizational philosophy, you might think it's another mastodon, matrix, activity pub.
+
+No matter where I start, the "direct path" of explaining Hubs is going to run into a lot of hurdles.
+
+So, allow me to take an indirect path.
+
+* Let's talk about Food Trucks
+
+Let's forget about Hubs for a moment.
+
+Let's forget about the metaverse, games, the immersive web, standards, artist tools, communities, tech companies, governance, and the powerful forces that influence our societies, economies, cultures, and lives.
+
+Let's forget all that. Let's talk about food trucks.
+
+* Food Trucks
+
+Here is a long list of things I want to say about food trucks.
+
+** I love food trucks.
+I love eating the food sold by food trucks.
+I love discovering new food trucks.
+I love the /concept/ of food trucks.
+
+** Food trucks are mobile
+They go all over the place. They go where the people who drive them /want them/ to go. They go where there are people who love the food the food truck produces.
+
+** Food trucks are small
