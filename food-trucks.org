@@ -222,7 +222,7 @@ If the restaurant dislikes you or your food, they'll kick you out.
 
 If the restaurant loves your food, they will sell it for a profit. If you're lucky, they might let you have some of that money. But more than likely all you'll earn is some monopoly money.
 
-You can't take your recipes with you to start your own restaurant. Those recipes -- all your hard work -- all the meals you've prepared and served. Those are the property of the restaurant.
+You can't take your recipes with you to start your own restaurant. Those recipes -- all your hard work -- all the meals you've prepared and served... Those are the property of the restaurant.
 
 The restaurant boasts an impressively large menu of user-generated content. The snowball starts to roll. Soon enough everyone is eating most of their meals at this restaurant.
 
