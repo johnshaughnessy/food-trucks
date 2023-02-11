@@ -319,7 +319,7 @@ We believe that with Hubs, we have an opportunity to avoid this family of applic
 
 We still hope to create a sustainable business around Hubs.
 
-The business model of social media companies has been to harvest, analyze, exploit, and sell user data. This creates an asymmetric power dynamic between platforms and a platforms users.
+The business model of social media companies has been to harvest, analyze, exploit, and sell user data. This creates an asymmetric power balance between platforms and a platforms users.
 
 By creating valuable products people pay for, we sustain the mission and maintain a direct relationship with the people we serve. (With Hubs, you are /not/ the product.)
 
@@ -352,7 +352,7 @@ This is a product I have dreamt about for a long time:
 
 I visit a website, pay some monthly fee, get my own multiplayer game (that I can completely customize, from the color scheme to the content to the code), run it on my own website, where I can commercialize it directly to end users.
 
-This to me is mind blowing. And I hope it's as exciting to creative people around the world as it is to me. There are plenty of rough edges we need to iron out, but the essential pieces are all there.
+This to me is mind blowing. And I hope it's as exciting to creative people around the world as it is to me. There are plenty of rough edges we need to smooth down, but the essential pieces are all there.
 
 * Where to focus
 
