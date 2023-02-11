@@ -1,63 +1,63 @@
-- [New things are easy to misunderstand](#org3f0778a)
-- [Hubs is a new thing](#org415df5d)
-- [Let&rsquo;s forget about Hubs](#org8b17fa0)
-- [Let&rsquo;s talk about food trucks.](#org72865ce)
-  - [I love food trucks.](#orge8c7f67)
-  - [Food trucks are visually unique](#org2db47ed)
-  - [Food trucks have unique menus.](#orgbb42e30)
-  - [Food trucks have equipment.](#org5db0127)
-  - [Food trucks need ingredients.](#orgbf26c44)
-  - [Food trucks serve food to patrons.](#orgaa4c58b)
-  - [Food trucks are mobile.](#org1c0aba8)
-  - [Food trucks are small.](#org6e87322)
-  - [Food trucks are not good at everything.](#org46b093e)
-  - [Food trucks are designed for their operators.](#org7bd7a6a)
-  - [Food trucks are customized by their operators.](#org9539e40)
-  - [Food trucks power small businesses.](#orgb62827a)
-- [Hubs are like food trucks](#org5c161b2)
-  - [I love hubs.](#org6f7a57f)
-  - [Hubs are visually unique.](#orgded8aee)
-  - [Hubs host unique experiences.](#org4bd21ce)
-  - [Hubs have built-in capabilities.](#org7f86943)
-  - [Hubs need content.](#orgb1d76ed)
-  - [Hubs entertain and help their visitors.](#org7066dd5)
-  - [Hubs are websites.](#org6a2efda)
-  - [Hubs are small.](#orge10c0dd)
-  - [Hubs are not good at everything.](#org0837183)
-  - [Hubs are designed for their operators.](#orga96d816)
-  - [Hubs power small creative businesses.](#org718ef98)
-- [Why Hubs is a new thing](#org2b16255)
-  - [Hubs aren&rsquo;t like other &ldquo;metaverse games&rdquo;](#org4e73ab0)
-  - [The Hubs engine is not another general purpose game engine](#org4d389da)
-    - [**Unreal engine** is a world-class commercial kitchen.](#orga18f194)
-    - [**Godot** is like a build-your-own-auto manufacturer.](#org6a153c5)
-  - [Hubs is mission-driven](#orgbf28ee6)
-    - [Food trucks need parking and business permits.](#org6ab65cf)
-    - [Food trucks must meet food safety standards.](#orgc9fa6e0)
-    - [Food trucks have socio-political consequences](#org5215eea)
-    - [Let&rsquo;s get back to Hubs, Mastodon, and Matrix.](#org625cd21)
-    - [Making money is not the end goal.](#org913290f)
-    - [We still want to make money](#org5fe1a09)
-- [How Hubs makes money](#orgf8b3fc6)
-  - [Hubs Cloud](#orgcbab969)
-  - [Managed Hubs](#org1b22a06)
-- [Appendix](#orgbf03943)
-  - [Hubs are also designed for their visitors](#org7a2429d)
-  - [Hubs do need to provide some ingredients](#org69876c9)
+- [New things are easy to misunderstand](#org9429cd3)
+- [Hubs is a new thing](#orge2a5fea)
+- [Let&rsquo;s forget about Hubs](#org6ea36bd)
+- [Let&rsquo;s talk about food trucks.](#orge22c7ff)
+  - [I love food trucks.](#orge7818ad)
+  - [Food trucks are visually unique](#org717ac10)
+  - [Food trucks have unique menus.](#orgc91bf6e)
+  - [Food trucks have equipment.](#org7aff378)
+  - [Food trucks need ingredients.](#orgc56c871)
+  - [Food trucks serve food to patrons.](#orge0f219a)
+  - [Food trucks are mobile.](#org11249b5)
+  - [Food trucks are small.](#org6bde2aa)
+  - [Food trucks are not good at everything.](#orgd7f92d1)
+  - [Food trucks are designed for their operators.](#org47b2a19)
+  - [Food trucks are customized by their operators.](#org37d513e)
+  - [Food trucks power small businesses.](#orgd6ee8f1)
+- [Hubs are like food trucks](#orge3ce272)
+  - [I love hubs.](#org71d67fd)
+  - [Hubs are visually unique.](#orga24b5fd)
+  - [Hubs host unique experiences.](#orgd5df2ad)
+  - [Hubs have built-in capabilities.](#orge60e991)
+  - [Hubs need content.](#org6357acd)
+  - [Hubs entertain and help their visitors.](#org9b6725a)
+  - [Hubs are websites.](#orga45c35f)
+  - [Hubs are small.](#org824f0ab)
+  - [Hubs are not good at everything.](#org7e991b5)
+  - [Hubs are designed for their operators.](#org1b60ebd)
+  - [Hubs power small creative businesses.](#orgbbed00c)
+- [Why Hubs is a new thing](#org5f45709)
+  - [Hubs aren&rsquo;t like other &ldquo;metaverse games&rdquo;](#org26e4edd)
+  - [The Hubs engine is not another general purpose game engine](#orgf007eef)
+    - [**Unreal engine** is a world-class commercial kitchen.](#org360dbf1)
+    - [**Godot** is like a build-your-own-auto manufacturer.](#org5843c3b)
+  - [Hubs is mission-driven](#orge8332e1)
+    - [Food trucks need parking and business permits.](#org3f1c4b1)
+    - [Food trucks must meet food safety standards.](#org7cf2d36)
+    - [Food trucks have socio-political consequences](#org124090f)
+    - [Let&rsquo;s get back to Hubs, Mastodon, and Matrix.](#org6892e28)
+    - [Making money is not the end goal.](#org25fa915)
+    - [We still want to make money](#org0fc546a)
+- [How Hubs makes money](#org3cd589a)
+  - [Hubs Cloud](#orga9dad2a)
+  - [Managed Hubs](#orgcc193e8)
+- [Appendix](#org5fd8fff)
+  - [Hubs are also designed for their visitors](#orgf196ca6)
+  - [Hubs do need to provide some ingredients](#org3ed757b)
 
 
 
-<a id="org3f0778a"></a>
+<a id="org9429cd3"></a>
 
 # New things are easy to misunderstand
 
 -   They are easy to miss.
--   Other things **look** like the new thing.
--   Other things **sound** like the new thing.
--   Other things **seem** like the new thing.
+-   New things might **look** like other things.
+-   New things might **sound** like other things.
+-   New things might **seem** like other things.
 
 
-<a id="org415df5d"></a>
+<a id="orge2a5fea"></a>
 
 # Hubs is a new thing
 
@@ -86,7 +86,7 @@ No matter where I start, explaining Hubs &ldquo;directly&rdquo; is difficult.
 So, allow me to take an indirect path.
 
 
-<a id="org8b17fa0"></a>
+<a id="org6ea36bd"></a>
 
 # Let&rsquo;s forget about Hubs
 
@@ -107,14 +107,14 @@ Let&rsquo;s forget about
 Let&rsquo;s forget all that.
 
 
-<a id="org72865ce"></a>
+<a id="orge22c7ff"></a>
 
 # Let&rsquo;s talk about food trucks.
 
 Here is a long list of things I want to say about food trucks.
 
 
-<a id="orge8c7f67"></a>
+<a id="orge7818ad"></a>
 
 ## I love food trucks.
 
@@ -125,42 +125,42 @@ I love discovering new food trucks.
 I love the *concept* of food trucks.
 
 
-<a id="org2db47ed"></a>
+<a id="org717ac10"></a>
 
 ## Food trucks are visually unique
 
 Every food truck has its own paint job.
 
 
-<a id="orgbb42e30"></a>
+<a id="orgc91bf6e"></a>
 
 ## Food trucks have unique menus.
 
 Every food truck has its own recipes.
 
 
-<a id="org5db0127"></a>
+<a id="org7aff378"></a>
 
 ## Food trucks have equipment.
 
 They&rsquo;ve got friers and burners and freezers and blenders.
 
 
-<a id="orgbf26c44"></a>
+<a id="orgc56c871"></a>
 
 ## Food trucks need ingredients.
 
 Bring your own tomatoes - they don&rsquo;t come with the truck.
 
 
-<a id="orgaa4c58b"></a>
+<a id="orge0f219a"></a>
 
 ## Food trucks serve food to patrons.
 
 People eat at food trucks because they love the food, not because they want their own food truck.
 
 
-<a id="org1c0aba8"></a>
+<a id="org11249b5"></a>
 
 ## Food trucks are mobile.
 
@@ -171,21 +171,29 @@ They go where the people who drive them *want them* to go.
 They go where there are people who love the food.
 
 
-<a id="org6e87322"></a>
+<a id="org6bde2aa"></a>
 
 ## Food trucks are small.
 
 Each one is built so that a small number of people can operate one.
 
 
-<a id="org46b093e"></a>
+<a id="orgd7f92d1"></a>
 
 ## Food trucks are not good at everything.
 
-They are less convenient than home kitchens. They have less space than restaurant kitchens. They have only the essential tools for making the menu they sell. They do not offer substitutions. They have a small menu.
+They are less convenient than home kitchens.
+
+They have less space than restaurant kitchens.
+
+They have only the essential tools for making the menu they sell.
+
+They do not offer substitutions.
+
+They have a small menu.
 
 
-<a id="org7bd7a6a"></a>
+<a id="org47b2a19"></a>
 
 ## Food trucks are designed for their operators.
 
@@ -194,14 +202,18 @@ The capabilities, layout, and organization of the food truck is designed primari
 They rarely features that directly benefit patrons of the food truck.
 
 
-<a id="org9539e40"></a>
+<a id="org37d513e"></a>
 
 ## Food trucks are customized by their operators.
 
-Burger trucks have grills. Fried chicken trucks have friers. Smoothie trucks have blenders.
+Burger trucks have grills.
+
+Fried chicken trucks have friers.
+
+Smoothie trucks have blenders.
 
 
-<a id="orgb62827a"></a>
+<a id="orgd6ee8f1"></a>
 
 ## Food trucks power small businesses.
 
@@ -214,14 +226,14 @@ Food trucks are less expensive than owning a restaurant.
 Successful food trucks sometimes graduate into restaurants. Others franchise and expand.
 
 
-<a id="org5c161b2"></a>
+<a id="orge3ce272"></a>
 
 # Hubs are like food trucks
 
 Here is a long list of things I want to say about hubs.
 
 
-<a id="org6f7a57f"></a>
+<a id="org71d67fd"></a>
 
 ## I love hubs.
 
@@ -232,42 +244,42 @@ I love discovering new hubs.
 I love the *concept* of hubs.
 
 
-<a id="orgded8aee"></a>
+<a id="orga24b5fd"></a>
 
 ## Hubs are visually unique.
 
 Every hub has its own UI, color scheme, home screen, and pages.
 
 
-<a id="org4bd21ce"></a>
+<a id="orgd5df2ad"></a>
 
 ## Hubs host unique experiences.
 
 Every hub has its own avatars, environments, events, and gameplay.
 
 
-<a id="org7f86943"></a>
+<a id="orge60e991"></a>
 
 ## Hubs have built-in capabilities.
 
 Hubs have 3D graphics, voice chat, video chat, file storage, and account management.
 
 
-<a id="orgb1d76ed"></a>
+<a id="org6357acd"></a>
 
 ## Hubs need content.
 
 Bring your own avatars, scenes, and the people you want to play with.
 
 
-<a id="org7066dd5"></a>
+<a id="org9b6725a"></a>
 
 ## Hubs entertain and help their visitors.
 
 People visit hubs because they love the experience, not because they want their own hub.
 
 
-<a id="org6a2efda"></a>
+<a id="orga45c35f"></a>
 
 ## Hubs are websites.
 
@@ -278,28 +290,36 @@ They run on mobile devices, tablets, laptops, gaming computers, and VR/AR headse
 They&rsquo;re built for the people who love to visit them. Not just for people with high-end computers or game consoles.
 
 
-<a id="orge10c0dd"></a>
+<a id="org824f0ab"></a>
 
 ## Hubs are small.
 
 Each one is built so that a small number of people can operate one
 
 
-<a id="org0837183"></a>
+<a id="org7e991b5"></a>
 
 ## Hubs are not good at everything.
 
-They are less convenient than a video call. They are less extensible than a general purpose game engine. They have only the essential tools for having a multiplayer experience. They have preset environments. They are built to enable specific experiences.
+They are less convenient than a video call.
+
+They are less extensible than a general purpose game engine.
+
+They have only the essential tools for having a multiplayer experience.
+
+They have preset environments.
+
+They are built to enable specific experiences.
 
 
-<a id="orga96d816"></a>
+<a id="org1b60ebd"></a>
 
 ## Hubs are designed for their operators.
 
 The admin panel, permissions, capabilities, layout, and organization of the hub is designed primarily with the operator in mind.
 
 
-<a id="org718ef98"></a>
+<a id="orgbbed00c"></a>
 
 ## Hubs power small creative businesses.
 
@@ -312,14 +332,14 @@ Building with Hubs is less expensive than building with other game engines.
 We expect successful Hubs to sometimes graduate into a unique immersive application or service. Others will replicate their Hub with variations and expand with servers in new regions.
 
 
-<a id="org2b16255"></a>
+<a id="org5f45709"></a>
 
 # Why Hubs is a new thing
 
 Now we can see why.
 
 
-<a id="org4e73ab0"></a>
+<a id="org26e4edd"></a>
 
 ## Hubs aren&rsquo;t like other &ldquo;metaverse games&rdquo;
 
@@ -350,7 +370,7 @@ I don&rsquo;t mean to suggest that the restaurant does not deserve some compensa
 The problem, though, is that when one of these restaurants gets popular, they franchise all over the world, and the balance of power is extremely in the restaurant&rsquo;s favor. Individual chefs, who provided the creative spark, who brought their friends to the restaurant, who put up with the day the friers broke and the blender exploded&#x2026; Those chefs are left out in the cold. Burning their monopoly money for warmth.
 
 
-<a id="org4d389da"></a>
+<a id="orgf007eef"></a>
 
 ## The Hubs engine is not another general purpose game engine
 
@@ -359,7 +379,7 @@ Consider Unreal Engine and Godot. These are not food trucks.
 They&rsquo;re&#x2026; much more versatile than that. And consequently, much more complicated.
 
 
-<a id="orga18f194"></a>
+<a id="org360dbf1"></a>
 
 ### **Unreal engine** is a world-class commercial kitchen.
 
@@ -369,10 +389,10 @@ It takes a team of 40 experienced chefs to operate effectively and really shines
 
 Unreal engine is *extremely good* for what it&rsquo;s good at: Allowing a team of trained professionals create one-of-a-kind, AAA dining experiences.
 
-But it is exactly the wrong tool for a pair of chefs who are excited to share favorite spicy fried chicken recipe.
+But it is exactly the wrong tool for a pair of chefs who are excited to share their favorite spicy fried chicken recipe.
 
 
-<a id="org6a153c5"></a>
+<a id="org5843c3b"></a>
 
 ### **Godot** is like a build-your-own-auto manufacturer.
 
@@ -385,7 +405,7 @@ You can choose the wheels you want. And the engine. And the body. And whether it
 In theory, you could build a food truck with Godot. But if what you wanted spend your time doing was perfecting your fish taco recipe, Godot is not the right tool for you.
 
 
-<a id="orgbf28ee6"></a>
+<a id="orge8332e1"></a>
 
 ## Hubs is mission-driven
 
@@ -400,7 +420,7 @@ The goals of each are noble and their strategies for achieving them are viable. 
 At risk of stretching the analogy too thin, let&rsquo;s keep talking about food trucks.
 
 
-<a id="org6ab65cf"></a>
+<a id="org3f1c4b1"></a>
 
 ### Food trucks need parking and business permits.
 
@@ -411,14 +431,14 @@ It&rsquo;s important that a society create fair and transparent rules about who 
 A food truck is not allowed to park in front of a fire hydrant no matter how delicious the noodles it serves is. It puts everyone else at unacceptable risk &#x2013; especially if the noodles are spicy enough to be deemed a fire hazard!
 
 
-<a id="orgc9fa6e0"></a>
+<a id="org7cf2d36"></a>
 
 ### Food trucks must meet food safety standards.
 
 Food truck operators must not serve food that has been poisoned, contaminated, and spoiled. Beyond the reputational harm they&rsquo;d do to themselves and the gastrointestinal harm they&rsquo;d do to their patrons, they might also be held legally responsible if found negligent.
 
 
-<a id="org5215eea"></a>
+<a id="org124090f"></a>
 
 ### Food trucks have socio-political consequences
 
@@ -427,7 +447,7 @@ Like any business, food trucks are subject to regulations, taxes, and inspection
 Those political processes invite fundamental issues of ethics, morality, access, representation, and governance. Food truck operators, their patrons, and the communities that host them all influence those political processes.
 
 
-<a id="org625cd21"></a>
+<a id="org6892e28"></a>
 
 ### Let&rsquo;s get back to Hubs, Mastodon, and Matrix.
 
@@ -440,7 +460,7 @@ With Hubs, &ldquo;we aim to create the most joyful online social experiences by 
 If we succeed, then many chefs will operate many food trucks. We will have avoided a future where chefs are exploited or patrons aren&rsquo;t free to support the chefs they like most. We will have empowered creators and rewarded those who have added value (rather than extracting that value for ourselves alone).
 
 
-<a id="org913290f"></a>
+<a id="org25fa915"></a>
 
 ### Making money is not the end goal.
 
@@ -457,7 +477,7 @@ Notice that there are hardly any &ldquo;food safety standards&rdquo; for these a
 We believe that with Hubs, we have an opportunity to avoid this family of applications from falling into the same centralized, exploitative, and dangerous patterns of social media companies today.
 
 
-<a id="org5fe1a09"></a>
+<a id="org0fc546a"></a>
 
 ### We still want to make money
 
@@ -468,7 +488,7 @@ The business model of the web has been to harvest, analyze, exploit, and sell us
 By creating valuable products people pay for, we sustain the mission and maintain a direct relationship with the people we serve. (With Hubs, you are *not* the product.)
 
 
-<a id="orgf8b3fc6"></a>
+<a id="org3cd589a"></a>
 
 # How Hubs makes money
 
@@ -481,7 +501,7 @@ In the previous section, I talked about making money. This is how we do that, an
 Hubs (aka &ldquo;hub instances&rdquo;) come in a variety of flavors.
 
 
-<a id="orgcbab969"></a>
+<a id="orga9dad2a"></a>
 
 ## Hubs Cloud
 
@@ -494,7 +514,7 @@ Most people don&rsquo;t want or need this level of control. It is akin for being
 Cost is also a considerable downside. Reserving dedicated services from cloud providers does not need to be prohibitively expensive, but most people still prefer a less expensive option, even if it means sharing servers. Most of all, many people prefer predictable pricing. They don&rsquo;t want to calculate and project and analyze their bills every month.
 
 
-<a id="org1b22a06"></a>
+<a id="orgcc193e8"></a>
 
 ## Managed Hubs
 
@@ -509,14 +529,14 @@ I visit a website, pay some monthly fee, get my own multiplayer game (that I can
 This to me is mind blowing. And I hope it&rsquo;s as exciting to creative people around the world as it is to me. There are plenty of rough edges we need to iron out, but the essential pieces are all there.
 
 
-<a id="orgbf03943"></a>
+<a id="org5fd8fff"></a>
 
 # Appendix
 
 There are some corrections to make.
 
 
-<a id="org7a2429d"></a>
+<a id="orgf196ca6"></a>
 
 ## Hubs are also designed for their visitors
 
@@ -535,7 +555,7 @@ This means we should expect to spend unusually high effort on teaching and offer
 In many ways, I expect hubs to appeal to people who *don&rsquo;t* particularly like games. People who like games have thousands of distinct experiences to choose from. Multiplayer, single player, competitive, casual. For people who like connecting with others, expressing themselves, and building things to share &#x2013; Hubs offers new ways of doing that.
 
 
-<a id="org69876c9"></a>
+<a id="org3ed757b"></a>
 
 ## Hubs do need to provide some ingredients
 

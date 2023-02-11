@@ -4,9 +4,9 @@
 * New things are easy to misunderstand
 
 - They are easy to miss.
-- Other things *look* like the new thing.
-- Other things *sound* like the new thing.
-- Other things *seem* like the new thing.
+- New things might *look* like other things.
+- New things might *sound* like other things.
+- New things might *seem* like other things.
 
 * Hubs is a new thing
 
@@ -95,9 +95,13 @@ Each one is built so that a small number of people can operate one.
 ** Food trucks are not good at everything.
 
 They are less convenient than home kitchens.
+
 They have less space than restaurant kitchens.
+
 They have only the essential tools for making the menu they sell.
+
 They do not offer substitutions.
+
 They have a small menu.
 
 ** Food trucks are designed for their operators.
@@ -109,7 +113,9 @@ They rarely features that directly benefit patrons of the food truck.
 ** Food trucks are customized by their operators.
 
 Burger trucks have grills.
+
 Fried chicken trucks have friers.
+
 Smoothie trucks have blenders.
 
 ** Food trucks power small businesses.
@@ -169,9 +175,13 @@ Each one is built so that a small number of people can operate one
 ** Hubs are not good at everything.
 
 They are less convenient than a video call.
+
 They are less extensible than a general purpose game engine.
+
 They have only the essential tools for having a multiplayer experience.
+
 They have preset environments.
+
 They are built to enable specific experiences.
 
 ** Hubs are designed for their operators.
@@ -234,7 +244,7 @@ It takes a team of 40 experienced chefs to operate effectively and really shines
 
 Unreal engine is /extremely good/ for what it's good at: Allowing a team of trained professionals create one-of-a-kind, AAA dining experiences.
 
-But it is exactly the wrong tool for a pair of chefs who are excited to share favorite spicy fried chicken recipe.
+But it is exactly the wrong tool for a pair of chefs who are excited to share their favorite spicy fried chicken recipe.
 
 *** *Godot* is like a build-your-own-auto manufacturer.
 
@@ -339,8 +349,6 @@ This is a product I have dreamt about for a long time:
 I visit a website, pay some monthly fee, get my own multiplayer game (that I can completely customize, from the color scheme to the content to the code), run it on my own website, where I can commercialize it directly to end users.
 
 This to me is mind blowing. And I hope it's as exciting to creative people around the world as it is to me. There are plenty of rough edges we need to iron out, but the essential pieces are all there.
-
-
 
 * Appendix
 
