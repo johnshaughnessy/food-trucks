@@ -319,7 +319,7 @@ The business model of the web has been to harvest, analyze, exploit, and sell us
 
 By creating valuable products people pay for, we sustain the mission and maintain a direct relationship with the people we serve. (With Hubs, you are /not/ the product.)
 
-* How Hubs makes money
+* What people pay us for
 Surely there's nothing more to say about food trucks
 
 Oh but of course there is.
@@ -349,6 +349,72 @@ This is a product I have dreamt about for a long time:
 I visit a website, pay some monthly fee, get my own multiplayer game (that I can completely customize, from the color scheme to the content to the code), run it on my own website, where I can commercialize it directly to end users.
 
 This to me is mind blowing. And I hope it's as exciting to creative people around the world as it is to me. There are plenty of rough edges we need to iron out, but the essential pieces are all there.
+
+* Where to focus
+
+** Where a food truck company focuses
+
+As a company that designs, manufactures, maintains, sells and rents out food trucks, we are part of something much bigger than ourselves.
+
+A food truck company doesn't invent recipes.
+
+It doesn't procure ingredients.
+
+It doesn't create point-of-sale systems.
+
+It doesn't create apps, ads, or promotions for particular truck owners.
+
+It doesn't try to make the best falafel.
+
+It doesn't create cooking tutorials or offer cooking classes.
+
+It doesn't write the laws of the road, decide where to park, or determine what permits food truck operators need.
+
+Its role is to provide high-quality, fit-to-purpose vehicles that meet the needs of their customers, the chefs.
+
+A food truck company needs an ecosystem in which it can embed itself.
+
+It needs chefs who want autonomy and flexibility.
+
+It needs patrons who enjoy trying new cuisines from non-traditional restaurants.
+
+It needs a society whose laws ensure that chefs can run businesses and patrons can eat safely.
+
+It needs expertise in auto manufacturing, interior design, and yes -- even cooking, though their best feedback will be from their chefs.
+
+** Where we must focus
+
+We have and hear so many exciting ideas about Hubs.
+
+It's difficult to know what to focus on.
+
+Most of us are not just in love with food trucks.
+- We're in love with food.
+- We're in love with cooking and with eating.
+- We love the people who eat.
+- We love the people who cook.
+- We care about the laws and the rules and the norms and the culture surrounding food trucks.
+- We love to dream about the future of food trucks. The future of vehicles. And the future of food.
+
+For the ecosystem to succeed, we must provide reliable, high-quality, well-designed, well-maintained food trucks.
+
+If we can do /more/ than that, that's great. But we aren't doing that basic piece well yet.
+
+If we try to build food trucks /and also do other things/, then we are splitting focus, and we'll get less far.
+
+Taking this route is a calculated risk. By focusing on building the best food trucks we can, we assume:
+- Chefs will bring their expertise to craft wonderful menu items.
+- Point-of-sale systems will be created to facilitate and ease transactions.
+- Farmers and wholesalers will provide ingredients to chefs.
+- Politicians and community representatives will discuss regulations and safety.
+- Customers will eat food.
+- We'll dream about the future together.
+
+Of course, there may be things outside of our core focus to stimulate the ecosystem, jump-start a virtuous cycle, or engage a flywheel effect.
+
+But we should be wary not to confuse our role with someone else's, or split our efforts too widely. Just as the entire ecosystem cannot thrive without skilled chefs, neither can it thrive without well-built food trucks.
+
+As food truck manufacturers, we will have a seat at the table - but not authoritative control - over the standards and laws that govern the next wave of interactive computing. This is as it should be. These standards and laws will effect all of us. All of us together should write them.
 
 * Appendix
 
